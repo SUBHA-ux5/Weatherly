@@ -1,6 +1,8 @@
 # 🌦️ Weatherly
 
-A modern and responsive weather website that provides real-time weather information for any city. Users can search by city name or use their current location to instantly view weather details.
+Weatherly is a modern and responsive weather website that provides real-time weather information for any city. Users can search by city name or use the My Location feature to get current weather details instantly.
+
+The website displays temperature, weather condition, feels-like temperature, humidity, and wind speed in a clean and user-friendly interface.
 
 ## 🚀 Features
 - 🔍 Search weather by city name  
